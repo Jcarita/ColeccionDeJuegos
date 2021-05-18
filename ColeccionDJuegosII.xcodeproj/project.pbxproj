@@ -14,6 +14,7 @@
 		E07C1693265410DE00E8FCC9 /* ColeccionDJuegosII.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E07C1691265410DE00E8FCC9 /* ColeccionDJuegosII.xcdatamodeld */; };
 		E07C1695265410EF00E8FCC9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E07C1694265410EF00E8FCC9 /* Assets.xcassets */; };
 		E07C1698265410EF00E8FCC9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E07C1696265410EF00E8FCC9 /* LaunchScreen.storyboard */; };
+		E07C16A0265417A000E8FCC9 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E07C169F265417A000E8FCC9 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E07C1694265410EF00E8FCC9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E07C1697265410EF00E8FCC9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E07C1699265410EF00E8FCC9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E07C169F265417A000E8FCC9 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				E07C1696265410EF00E8FCC9 /* LaunchScreen.storyboard */,
 				E07C1699265410EF00E8FCC9 /* Info.plist */,
 				E07C1691265410DE00E8FCC9 /* ColeccionDJuegosII.xcdatamodeld */,
+				E07C169F265417A000E8FCC9 /* JuegosViewController.swift */,
 			);
 			path = ColeccionDJuegosII;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E07C16A0265417A000E8FCC9 /* JuegosViewController.swift in Sources */,
 				E07C168D265410DE00E8FCC9 /* ViewController.swift in Sources */,
 				E07C1693265410DE00E8FCC9 /* ColeccionDJuegosII.xcdatamodeld in Sources */,
 				E07C1689265410DE00E8FCC9 /* AppDelegate.swift in Sources */,
